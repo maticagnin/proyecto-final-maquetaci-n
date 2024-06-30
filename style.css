@@ -279,4 +279,8 @@ section{
         width: 350px;
     }
 
+    .hero-img img:hover{
+        width: 380px;
+    }
+
 }
